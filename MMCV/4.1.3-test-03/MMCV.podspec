@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     MMCV detectors
                        DESC
 
-  s.homepage         = 'https://www.baidu.com/'
+  s.homepage         = 'https://www.baidu.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'bi.s_fish' => 'sunfeifish@gmail.com' }
   s.source           = { http:'https://download.momoapk.com/cosmos/MMCV/test/4.2.1/4.2.1-test-0609.zip' }
